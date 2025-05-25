@@ -29,7 +29,7 @@ close all
 t = 0:0.1:180;             % Time from zero to 3 minutes in 100 ms increments
 vsupply.v = 5;               % Voltage divider supplied with 5V
 vsupply.tol = 0.1;         % Voltage regulator tolerance
-tmin = 10;                 % Minimum temperature in degrees C
+tmin = 0;                 % Minimum temperature in degrees C
 tmax = 70;                 % Maximum temperature in degrees C
                            % Convert these to Kelvin by adding 273.15
 
@@ -82,18 +82,24 @@ therm.rmin = (therm.r0 - (therm.r0*therm.rtol)).*...               % Max resista
 vsense.vmax = (vsupply.v + vsupply.v*vsupply.tol).*(res.r + res.r*res.tol)./...
               (res.r + res.r*res.tol + therm.rmin);
 
-% Compute maximum voltage at the voltage divider node 
-% This case takes min thermistor resistance, min fixed resistance, min supply voltage
-vsense.vmin = (vsupply.v + vsupply.v*vsupply.tol).*(res.r - res.r*res.tol)./...
+% Compute minimum voltage at the voltage divider node 
+% This case takes max thermistor resistance, min fixed resistance, min supply voltage
+vsense.vmin = (vsupply.v - vsupply.v*vsupply.tol).*(res.r - res.r*res.tol)./...
               (res.r - res.r*res.tol + therm.rmax);
 
 
-
+%% Plots
 figure; hold on
-plot(temperature, therm.rmax, Color="blue")
-plot(temperature, therm.rmin, Color="red")
+plot(temperature, therm.rmax, Color="blue", LineWidth=1.5)
+plot(temperature, therm.rmin, Color="red", LineWidth=1.5)
+legend("Maximum Resistance", "Minimum Resistance")
+xlabel("Cell Temperature (°C)");
+ylabel("Thermistor Resistance (Ω)");
+ylim([0, 30.*10.^3])
 %plot(temperature, therm.tnom)
 
 hold off; figure; hold on
-plot(temperature, vsense.vmax, Color="blue")
-plot(temperature, vsense.vmin, Color="red")
+plot(temperature, vsense.vmax, Color="blue", LineWidth=1.5)
+plot(temperature, vsense.vmin, Color="red", LineWidth=1.5)
+legend("Maximum Voltage", "Minimum ")
+xlabel("Cell Temperature (°C)");

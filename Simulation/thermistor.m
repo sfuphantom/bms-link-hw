@@ -88,12 +88,18 @@ vsense.vmin = (vsupply.v - vsupply.v*vsupply.tol).*(res.r - res.r*res.tol)./...
               (res.r - res.r*res.tol + therm.rmax);
 
 
-
+%% Plots
 figure; hold on
-plot(temperature, therm.rmax, Color="blue")
-plot(temperature, therm.rmin, Color="red")
-%plot(temperature, therm.tnom)
+plot(temperature, therm.rmax, Color="blue", LineWidth=1.5)
+plot(temperature, therm.rmin, Color="red", LineWidth=1.5)
+legend("Maximum Resistance", "Minimum Resistance")
+xlabel("Cell Temperature (°C)");
+ylabel("Thermistor Resistance (Ω)");
+ylim([0, 30.*10.^3])
 
 hold off; figure; hold on
-plot(temperature, vsense.vmax, Color="blue")
-plot(temperature, vsense.vmin, Color="red")
+plot(temperature, vsense.vmax, Color="blue", LineWidth=1.5)
+plot(temperature, vsense.vmin, Color="red", LineWidth=1.5)
+legend("Maximum Voltage", "Minimum Voltage");
+xlabel("Cell Temperature (°C)");
+ylabel("Sensor Voltage (V)");
