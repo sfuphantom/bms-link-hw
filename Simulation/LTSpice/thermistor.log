@@ -1,21 +1,38 @@
-Questionable use of curly braces in "b§r§therm1 vcc n001 r={28803-147.3944*time}"
-    Error: undefined symbol in: "28803-147.3944*[time]"
-Questionable use of curly braces in "b§r§therm2 vcc n002 r={28803-147.3944*time}"
-    Error: undefined symbol in: "28803-147.3944*[time]"
-Questionable use of curly braces in "vtest test 0 v={0.1*time}"
-    Error: undefined symbol in: "0.1*[time]"
+Questionable use of curly braces in "b§r§therm1 vcc n001 r = {10000*exp(-3380*(1/(25+273.15)-1/((time+273.15))))}"
+    Error: undefined symbol in: "10000*exp(-3380*(1/(25+273.15)-1/(([time]+273.15))))"
 LTspice 24.0.12 for Windows
-Circuit: * C:\TeamPhantom\BMS_Links\bms-link-hw\Simulation\thermistor.asc
-Start Time: Mon May 26 10:26:25 2025
-Error on line 11 : vtest test 0 v=(0.1*time)
-	 Unknown parameter "v"
+Circuit: * C:\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
+Start Time: Thu May 29 10:34:36 2025
 solver = Normal
 Maximum thread count: 4
+
+
+
+Direct Newton iteration for .op point succeeded.
+.step diode=1
+
+
+
+.step diode=2
+
+
+
+.step diode=3
+
+
+
+.step diode=4
+
+
+
+.step diode=5
+
+
+
+.step diode=6
 tnom = 27
 temp = 27
 method = modified trap
-WARNING: Less than two connections to node test.  This node is used by vtest.
-vtest: Missing value, assumed 0V @ DC
-Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.121 seconds.
+.step diode=7
+Total elapsed time: 0.494 seconds.
 

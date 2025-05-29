@@ -1,0 +1,19 @@
+* C:\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
+R1 N001 0 1k
+R§Therm1 Vcc N001 R = {10000*exp(-3380*( 1/(25+273.15) - 1/( (time + 273.15) )))}
+V§Regulator Vcc 0 5
+D1 N001 common {Diode}
+R2 common 0 100k
+.model D D
+.lib C:\Users\drena\AppData\Local\LTspice\lib\cmp\standard.dio
+.model 1 AKO: 1N4148
+.model 2 AKO: 1N914
+.model 3 AKO: MMSD4148
+.model 4 AKO: 1N5817
+.model 5 AKO: 1N5818
+.model 6 AKO: 1N5819
+.model 7 AKO: BAT54
+.STEP Param Diode list 1 2 3 3 4 5 6 7
+.tran 70
+.backanno
+.end

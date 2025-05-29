@@ -2,14 +2,17 @@
 %{
 
 % This simulation is to be used in choosing components for the BMS links
-% The circuit used here is a set of diode paralleled thermistors
+The circuit used here is a set of diode paralleled thermistors
 
 [5V Regulator]
  |
  |
 [NTC Thermistor]----[Resistor]----[GND]
                  |
+              [Diode]
+                 |
                 x20
+                 |
                  |
           [Common Comparator Input]->[Output to BMS Links]
                  |
