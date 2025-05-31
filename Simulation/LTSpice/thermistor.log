@@ -1,38 +1,17 @@
-Questionable use of curly braces in "b§r§therm1 vcc n001 r = {10000*exp(-3380*(1/(25+273.15)-1/((time+273.15))))}"
-    Error: undefined symbol in: "10000*exp(-3380*(1/(25+273.15)-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm1 vcc n001  r={{r0therm1}*exp(-{btherm1}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm1)*exp(-(btherm1)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm2 vcc n002  r={{r0therm2}*exp(-{btherm2}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm2)*exp(-(btherm2)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm3 vcc n003  r={{r0therm3}*exp(-{btherm3}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm3)*exp(-(btherm3)*(1/((t0therm))-1/(([time]+273.15))))"
 LTspice 24.0.12 for Windows
 Circuit: * C:\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
-Start Time: Thu May 29 10:34:36 2025
+Start Time: Fri May 30 18:56:23 2025
 solver = Normal
 Maximum thread count: 4
-
-
-
-Direct Newton iteration for .op point succeeded.
-.step diode=1
-
-
-
-.step diode=2
-
-
-
-.step diode=3
-
-
-
-.step diode=4
-
-
-
-.step diode=5
-
-
-
-.step diode=6
 tnom = 27
 temp = 27
 method = modified trap
-.step diode=7
-Total elapsed time: 0.494 seconds.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.134 seconds.
 
