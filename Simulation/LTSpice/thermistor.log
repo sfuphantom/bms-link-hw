@@ -1,17 +1,51 @@
-Questionable use of curly braces in "b§r§therm1 vcc n001  r={{r0therm1}*exp(-{btherm1}*(1/({t0therm})-1/((time+273.15))))}"
+Questionable use of curly braces in "b§r§therm1 vcc n004  r={{r0therm1}*exp(-{btherm1}*(1/({t0therm})-1/((time+273.15))))}"
     Error: undefined symbol in: "(r0therm1)*exp(-(btherm1)*(1/((t0therm))-1/(([time]+273.15))))"
-Questionable use of curly braces in "b§r§therm2 vcc n002  r={{r0therm2}*exp(-{btherm2}*(1/({t0therm})-1/((time+273.15))))}"
+Questionable use of curly braces in "b§r§therm2 vcc n008  r={{r0therm2}*exp(-{btherm2}*(1/({t0therm})-1/((time+273.15))))}"
     Error: undefined symbol in: "(r0therm2)*exp(-(btherm2)*(1/((t0therm))-1/(([time]+273.15))))"
-Questionable use of curly braces in "b§r§therm3 vcc n003  r={{r0therm3}*exp(-{btherm3}*(1/({t0therm})-1/((time+273.15))))}"
+Questionable use of curly braces in "b§r§therm3 vcc n012  r={{r0therm3}*exp(-{btherm3}*(1/({t0therm})-1/((time+273.15))))}"
     Error: undefined symbol in: "(r0therm3)*exp(-(btherm3)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm4 vcc n016  r={{r0therm4}*exp(-{btherm4}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm4)*exp(-(btherm4)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm5 vcc n020  r={{r0therm5}*exp(-{btherm5}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm5)*exp(-(btherm5)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm6 vcc n001  r={{r0therm6}*exp(-{btherm6}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm6)*exp(-(btherm6)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm7 vcc n005  r={{r0therm7}*exp(-{btherm7}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm7)*exp(-(btherm7)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm8 vcc n009  r={{r0therm8}*exp(-{btherm8}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm8)*exp(-(btherm8)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm9 vcc n013  r={{r0therm9}*exp(-{btherm9}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm9)*exp(-(btherm9)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm10 vcc n017  r={{r0therm10}*exp(-{btherm10}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm10)*exp(-(btherm10)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm11 vcc n002  r={{r0therm11}*exp(-{btherm11}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm11)*exp(-(btherm11)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm12 vcc n006  r={{r0therm12}*exp(-{btherm12}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm12)*exp(-(btherm12)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm13 vcc n010  r={{r0therm13}*exp(-{btherm13}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm13)*exp(-(btherm13)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm14 vcc n014  r={{r0therm14}*exp(-{btherm14}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm14)*exp(-(btherm14)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm15 vcc n018  r={{r0therm15}*exp(-{btherm15}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm15)*exp(-(btherm15)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm16 vcc n003  r={{r0therm16}*exp(-{btherm16}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm16)*exp(-(btherm16)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm17 vcc n007  r={{r0therm17}*exp(-{btherm17}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm17)*exp(-(btherm17)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm18 vcc n011  r={{r0therm18}*exp(-{btherm18}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm18)*exp(-(btherm18)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm19 vcc n015  r={{r0therm19}*exp(-{btherm19}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm19)*exp(-(btherm19)*(1/((t0therm))-1/(([time]+273.15))))"
+Questionable use of curly braces in "b§r§therm20 vcc n019  r={{r0therm20}*exp(-{btherm20}*(1/({t0therm})-1/((time+273.15))))}"
+    Error: undefined symbol in: "(r0therm20)*exp(-(btherm20)*(1/((t0therm))-1/(([time]+273.15))))"
 LTspice 24.0.12 for Windows
 Circuit: * C:\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
-Start Time: Fri May 30 18:56:23 2025
+Start Time: Sat May 31 12:13:56 2025
 solver = Normal
 Maximum thread count: 4
 tnom = 27
 temp = 27
 method = modified trap
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.134 seconds.
+Total elapsed time: 0.279 seconds.
 
