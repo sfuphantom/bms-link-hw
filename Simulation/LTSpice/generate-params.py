@@ -1,5 +1,6 @@
 import random
 
+# There are 20 temperature sensors in the circuit
 count = 20
 
 ## Thermistor
@@ -27,8 +28,6 @@ for i in range(1, count + 1):
     # .params for thermistor resistance at 25C with tolerance applied
     rv = random.random() # Regenerate random variable for each param
     lines.append(f".param RFixed{i} = {RFixedNom}*(1+2*{RFixedTol}*({rv:.6f} - 0.5)) ; Actual RFixed{i} = {RFixedNom*(1+2*RFixedTol*(rv - 0.5))}")
-
-
 
 # Write to params.txt
 file_path = "params.txt"
