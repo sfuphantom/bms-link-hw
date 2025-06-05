@@ -1,0 +1,73 @@
+* C:\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
+RFixed1 sense1 0 ={RFixed1}
+R§Therm1 Vcc sense1 R = {R0Therm1*exp(-BTherm1*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D1 sense1 common {Diode}
+Rpdn common 0 ={RPdn}
+RFixed2 sense2 0 ={RFixed2}
+R§Therm2 Vcc sense2 R = {R0Therm2*exp(-BTherm2*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D2 sense2 common {Diode}
+RFixed3 sense3 0 ={RFixed3}
+R§Therm3 Vcc sense3 R = {R0Therm3*exp(-BTherm3*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D3 sense3 common {Diode}
+B§Regulator Vcc 0 V= {5}
+RFixed4 sense4 0 ={RFixed4}
+R§Therm4 Vcc sense4 R = {R0Therm4*exp(-BTherm4*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D4 sense4 common {Diode}
+RFixed5 sense5 0 ={RFixed5}
+R§Therm5 Vcc sense5 R = {R0Therm5*exp(-BTherm5*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D5 sense5 common {Diode}
+RFixed6 sense2 0 ={RFixed6}
+R§Therm6 Vcc sense2 R = {R0Therm6*exp(-BTherm6*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D6 sense2 common {Diode}
+RFixed7 sense7 0 ={RFixed7}
+R§Therm7 Vcc sense7 R = {R0Therm7*exp(-BTherm7*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D7 sense7 common {Diode}
+RFixed8 sense8 0 ={RFixed8}
+R§Therm8 Vcc sense8 R = {R0Therm8*exp(-BTherm8*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D8 sense8 common {Diode}
+RFixed9 sense9 0 ={RFixed9}
+R§Therm9 Vcc sense9 R = {R0Therm9*exp(-BTherm9*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D9 sense9 common {Diode}
+RFixed10 sense10 0 ={RFixed10}
+R§Therm10 Vcc sense10 R = {R0Therm10*exp(-BTherm10*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D10 sense10 common {Diode}
+RFixed11 sense3 0 ={RFixed11}
+R§Therm11 Vcc sense3 R = {R0Therm11*exp(-BTherm11*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D11 sense3 common {Diode}
+RFixed12 sense12 0 ={RFixed12}
+R§Therm12 Vcc sense12 R = {R0Therm12*exp(-BTherm12*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D12 sense12 common {Diode}
+RFixed13 N001 0 ={RFixed13}
+R§Therm13 Vcc N001 R = {R0Therm13*exp(-BTherm13*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D13 N001 common {Diode}
+RFixed14 sense14 0 ={RFixed14}
+R§Therm14 Vcc sense14 R = {R0Therm14*exp(-BTherm14*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D14 sense14 common {Diode}
+RFixed15 sense15 0 ={RFixed15}
+R§Therm15 Vcc sense15 R = {R0Therm15*exp(-BTherm15*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D15 sense15 common {Diode}
+RFixed16 sense4 0 ={RFixed16}
+R§Therm16 Vcc sense4 R = {R0Therm16*exp(-BTherm16*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D16 sense4 common {Diode}
+RFixed17 sense17 0 ={RFixed17}
+R§Therm17 Vcc sense17 R = {R0Therm17*exp(-BTherm17*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D17 sense17 common {Diode}
+RFixed18 N002 0 ={RFixed18}
+R§Therm18 Vcc N002 R = {R0Therm18*exp(-BTherm18*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D18 N002 common {Diode}
+RFixed19 sense19 0 ={RFixed19}
+R§Therm19 Vcc sense19 R = {R0Therm19*exp(-BTherm19*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D19 sense19 common {Diode}
+RFixed20 sense20 0 ={RFixed20}
+R§Therm20 Vcc sense20 R = {R0Therm20*exp(-BTherm20*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D20 sense20 common {Diode}
+.model D D
+.lib C:\Users\drena\AppData\Local\LTspice\lib\cmp\standard.dio
+.tran 70
+* Simulation Parameters
+.include params.txt
+.model 1 AKO: 1N4148
+.param Diode 1
+* All other parameters are managed and \nwritten to params.txt by generate-params.py
+.backanno
+.end

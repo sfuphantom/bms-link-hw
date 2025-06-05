@@ -4,8 +4,6 @@ Questionable use of curly braces in "b§r§therm2 vcc sense2  r={{r0therm2}*exp(-{
     Error: undefined symbol in: "(r0therm2)*exp(-(btherm2)*(1/((t0therm))-1/(([time]+273.15))))"
 Questionable use of curly braces in "b§r§therm3 vcc sense3  r={{r0therm3}*exp(-{btherm3}*(1/({t0therm})-1/((time+273.15))))}"
     Error: undefined symbol in: "(r0therm3)*exp(-(btherm3)*(1/((t0therm))-1/(([time]+273.15))))"
-Questionable use of curly braces in "b§regulator vcc 0 v= {5+white(1)}"
-    Error: undefined symbol in: "5+[white](1)"
 Questionable use of curly braces in "b§r§therm4 vcc sense4  r={{r0therm4}*exp(-{btherm4}*(1/({t0therm})-1/((time+273.15))))}"
     Error: undefined symbol in: "(r0therm4)*exp(-(btherm4)*(1/((t0therm))-1/(([time]+273.15))))"
 Questionable use of curly braces in "b§r§therm5 vcc sense5  r={{r0therm5}*exp(-{btherm5}*(1/({t0therm})-1/((time+273.15))))}"
@@ -42,12 +40,12 @@ Questionable use of curly braces in "b§r§therm20 vcc sense20  r={{r0therm20}*exp
     Error: undefined symbol in: "(r0therm20)*exp(-(btherm20)*(1/((t0therm))-1/(([time]+273.15))))"
 LTspice 24.0.12 for Windows
 Circuit: * C:\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
-Start Time: Sat May 31 13:43:52 2025
+Start Time: Thu Jun  5 13:24:11 2025
 solver = Normal
 Maximum thread count: 4
 tnom = 27
 temp = 27
 method = modified trap
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.268 seconds.
+Total elapsed time: 0.321 seconds.
 
