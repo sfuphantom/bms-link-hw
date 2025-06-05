@@ -48,6 +48,8 @@ RFixedNom = 1*10**3 # Nominal fixed resistor value
 lines.append(f".param RFixedTol = {RFixedTol}")
 lines.append(f".param RFixedNom = {RFixedNom}")
 
+maxTempVar = 10 # degrees C or K, they're the same size
+lines.append(f".param THigh = {maxTempVar} + 5") # maximum temp for prooving the circuit concept
 
 # Generate the parameter lines
 for i in range(1, count + 1):
@@ -63,6 +65,11 @@ for i in range(1, count + 1):
     # .params for thermistor resistance at 25C with tolerance applied
     rv = random.random() # Regenerate random variable for each param
     lines.append(f".param RFixed{i} = {RFixedNom}*(1+2*{RFixedTol}*({rv:.6f} - 0.5)) ; Actual RFixed{i} = {RFixedNom*(1+2*RFixedTol*(rv - 0.5))}")
+
+    # .params for random temperature variation
+    rv = random.random()
+    lines.append(f".param T{i} = 2*{maxTempVar}*({rv:.6f} - 0.5) ; Actual T{i} = {2*maxTempVar*(rv - 0.5)}")
+    
 
 # Write to params.txt
 file_path = "params.txt"
