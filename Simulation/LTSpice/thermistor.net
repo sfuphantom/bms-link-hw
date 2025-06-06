@@ -1,4 +1,4 @@
-* C:\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
+* C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
 RFixed1 senseHigh 0 ={RFixed1}
 R§Therm1 Vcc senseHigh R = {R0Therm1*exp(-BTherm1*( 1/(T0Therm) - 1/( (time + 273.15 + THigh) )))}
 D1 senseHigh common {Diode}
@@ -61,10 +61,10 @@ D19 sense19 common {Diode}
 RFixed20 sense20 0 ={RFixed20}
 R§Therm20 Vcc sense20 R = {R0Therm20*exp(-BTherm20*( 1/(T0Therm) - 1/( (time + 273.15 + T20) )))}
 D20 sense20 common {Diode}
-RFixed21 senseHighTest 0 ={RFixed1}
-R§Therm21 Vcc senseHighTest R = {R0Therm1*exp(-BTherm1*( 1/(T0Therm) - 1/( (time + 273.15 + THigh) )))}
+RFixedTest senseHighTest 0 ={RFixed1}
+R§ThermTest Vcc senseHighTest R = {R0Therm1*exp(-BTherm1*( 1/(T0Therm) - 1/( (time + 273.15 + THigh) )))}
 D21 senseHighTest commonTest {Diode}
-Rpdn1 commonTest 0 ={RPdn}
+RpdnTest commonTest 0 ={RPdn}
 .model D D
 .lib C:\Users\drena\AppData\Local\LTspice\lib\cmp\standard.dio
 .tran 70
@@ -73,5 +73,6 @@ Rpdn1 commonTest 0 ={RPdn}
 .model 1 AKO: 1N4148
 .param Diode 1
 * All other parameters are managed and \nwritten to params.txt by generate-params.py
+* The diode paralleled thermistor concept is proven by the node voltages of SenseHigh and common being equal to the \nisolated temperature sensor circuit voltages senseHighTest and commonTest
 .backanno
 .end

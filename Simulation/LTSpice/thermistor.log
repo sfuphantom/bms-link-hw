@@ -38,16 +38,16 @@ Questionable use of curly braces in "b§r§therm19 vcc sense19  r={{r0therm19}*exp
     Error: undefined symbol in: "(r0therm19)*exp(-(btherm19)*(1/((t0therm))-1/(([time]+273.15+(t19)))))"
 Questionable use of curly braces in "b§r§therm20 vcc sense20  r={{r0therm20}*exp(-{btherm20}*(1/({t0therm})-1/((time+273.15+{t20}))))}"
     Error: undefined symbol in: "(r0therm20)*exp(-(btherm20)*(1/((t0therm))-1/(([time]+273.15+(t20)))))"
-Questionable use of curly braces in "b§r§therm21 vcc sensehightest  r={{r0therm1}*exp(-{btherm1}*(1/({t0therm})-1/((time+273.15+{thigh}))))}"
+Questionable use of curly braces in "b§r§thermtest vcc sensehightest  r={{r0therm1}*exp(-{btherm1}*(1/({t0therm})-1/((time+273.15+{thigh}))))}"
     Error: undefined symbol in: "(r0therm1)*exp(-(btherm1)*(1/((t0therm))-1/(([time]+273.15+(thigh)))))"
 LTspice 24.0.12 for Windows
-Circuit: * C:\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
-Start Time: Thu Jun  5 13:44:18 2025
+Circuit: * C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
+Start Time: Thu Jun  5 20:32:34 2025
 solver = Normal
 Maximum thread count: 4
 tnom = 27
 temp = 27
 method = modified trap
 Direct Newton iteration for .op point succeeded.
-Total elapsed time: 0.258 seconds.
+Total elapsed time: 0.422 seconds.
 
