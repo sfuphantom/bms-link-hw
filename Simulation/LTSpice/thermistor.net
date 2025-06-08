@@ -65,6 +65,9 @@ RFixedTest senseHighTest 0 ={RFixed1}
 R§ThermTest Vcc senseHighTest R = {R0Therm1*exp(-BTherm1*( 1/(T0Therm) - 1/( (time + 273.15 + THigh) )))}
 D21 senseHighTest commonTest {Diode}
 RpdnTest commonTest 0 ={RPdn}
+XU1 common Vref Vcc 0 out LTC6702
+R1 Vcc Vref 1k
+R2 Vref 0 1.2k
 .model D D
 .lib C:\Users\drena\AppData\Local\LTspice\lib\cmp\standard.dio
 .tran 70
@@ -74,5 +77,6 @@ RpdnTest commonTest 0 ={RPdn}
 .param Diode 1
 * All other parameters are managed and \nwritten to params.txt by generate-params.py
 * The diode paralleled thermistor concept is proven by the node voltages of SenseHigh and common being equal to the \nisolated temperature sensor circuit voltages senseHighTest and commonTest
+.lib LTC3.lib
 .backanno
 .end
