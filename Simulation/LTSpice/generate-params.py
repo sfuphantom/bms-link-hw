@@ -35,8 +35,9 @@ lines.append(f".param R0ThermTol = {R0ThermTol}")
 lines.append(f".param T0Therm = 25+273.15") # R0 of thermisor always measured at T = 25C = 298.19K
 
 # Common node pulldown resistor 
+# This does not have a significant effect on the simulation unless you set the value very low
 RPdnTol = 0.01
-RPdnNom = 10*10**3 # 100k, ** is equal to ^ power operator
+RPdnNom = 10*10**3 # 10k, ** is equal to ^ power operator
 lines.append(f".param RPdnTol = {RPdnTol}")
 lines.append(f".param RPdnNom = {RPdnNom}")
 rv = random.random()
@@ -44,7 +45,7 @@ lines.append(f".param Rpdn = {RPdnNom}*(1+2*{RPdnTol}*({rv:.6f} - 0.5)) ;  Actua
 
 # Fixed Resistor 
 RFixedTol = 0.01 # % Tolerance on fixed resistor value
-RFixedNom = 5*10**3 # Nominal fixed resistor value
+RFixedNom = 1*10**3 # Nominal fixed resistor value
 lines.append(f".param RFixedTol = {RFixedTol}")
 lines.append(f".param RFixedNom = {RFixedNom}")
 

@@ -1,7 +1,7 @@
 * C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
 RFixed1 senseHigh 0 ={RFixed1}
 R§Therm1 Vcc senseHigh R = {R0Therm1*exp(-BTherm1*( 1/(T0Therm) - 1/( (time + 273.15 + THigh) )))}
-D1 senseHigh common {Diode}
+D1 senseHigh commonx {Diode}
 Rpdn common 0 ={RPdn}
 RFixed2 sense2 0 ={RFixed2}
 R§Therm2 Vcc sense2 R = {R0Therm2*exp(-BTherm2*( 1/(T0Therm) - 1/( (time + 273.15 + T2) )))}
@@ -16,9 +16,9 @@ D4 sense4 common {Diode}
 RFixed5 sense5 0 ={RFixed5}
 R§Therm5 Vcc sense5 R = {R0Therm5*exp(-BTherm5*( 1/(T0Therm) - 1/( (time + 273.15 + T5) )))}
 D5 sense5 common {Diode}
-RFixed6 sense2 0 ={RFixed6}
-R§Therm6 Vcc sense2 R = {R0Therm6*exp(-BTherm6*( 1/(T0Therm) - 1/( (time + 273.15 + T6) )))}
-D6 sense2 common {Diode}
+RFixed6 sense6 0 ={RFixed6}
+R§Therm6 Vcc sense6 R = {R0Therm6*exp(-BTherm6*( 1/(T0Therm) - 1/( (time + 273.15 + T6) )))}
+D6 sense6 common {Diode}
 RFixed7 sense7 0 ={RFixed7}
 R§Therm7 Vcc sense7 R = {R0Therm7*exp(-BTherm7*( 1/(T0Therm) - 1/( (time + 273.15 + T7) )))}
 D7 sense7 common {Diode}
@@ -31,9 +31,9 @@ D9 sense9 common {Diode}
 RFixed10 sense10 0 ={RFixed10}
 R§Therm10 Vcc sense10 R = {R0Therm10*exp(-BTherm10*( 1/(T0Therm) - 1/( (time + 273.15 + T10) )))}
 D10 sense10 common {Diode}
-RFixed11 sense3 0 ={RFixed11}
-R§Therm11 Vcc sense3 R = {R0Therm11*exp(-BTherm11*( 1/(T0Therm) - 1/( (time + 273.15 + T11) )))}
-D11 sense3 common {Diode}
+RFixed11 sense11 0 ={RFixed11}
+R§Therm11 Vcc sense11 R = {R0Therm11*exp(-BTherm11*( 1/(T0Therm) - 1/( (time + 273.15 + T11) )))}
+D11 sense11 common {Diode}
 RFixed12 sense12 0 ={RFixed12}
 R§Therm12 Vcc sense12 R = {R0Therm12*exp(-BTherm12*( 1/(T0Therm) - 1/( (time + 273.15 + T12) )))}
 D12 sense12 common {Diode}
@@ -46,9 +46,9 @@ D14 sense14 common {Diode}
 RFixed15 sense15 0 ={RFixed15}
 R§Therm15 Vcc sense15 R = {R0Therm15*exp(-BTherm15*( 1/(T0Therm) - 1/( (time + 273.15 + T15) )))}
 D15 sense15 common {Diode}
-RFixed16 sense4 0 ={RFixed16}
-R§Therm16 Vcc sense4 R = {R0Therm16*exp(-BTherm16*( 1/(T0Therm) - 1/( (time + 273.15 + T16) )))}
-D16 sense4 common {Diode}
+RFixed16 sense16 0 ={RFixed16}
+R§Therm16 Vcc sense16 R = {R0Therm16*exp(-BTherm16*( 1/(T0Therm) - 1/( (time + 273.15 + T16) )))}
+D16 sense16 common {Diode}
 RFixed17 sense17 0 ={RFixed17}
 R§Therm17 Vcc sense17 R = {R0Therm17*exp(-BTherm17*( 1/(T0Therm) - 1/( (time + 273.15 + T17) )))}
 D17 sense17 common {Diode}
@@ -68,6 +68,41 @@ RpdnTest commonTest 0 ={RPdn}
 XU1 common Vref Vcc 0 out LTC6702
 R1 Vcc Vref 1k
 R2 Vref 0 1.2k
+Rpdn2 out 0 ={RPdn}
+RFixedNom senseNom 0 ={RFixedNom}
+R§ThermNom Vcc senseNom R = {R0ThermNom*exp(-BThermNom*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D22 senseNom commonNomIso {Diode}
+RPdnNomIso commonNomIso 0 ={RPdnNom}
+RFixedNom1 senseNom2 0 ={RFixedNom}
+R§ThermNom1 Vcc senseNom2 R = {R0ThermNom*exp(-BThermNom*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D23 senseNom2 commonNom {Diode}
+RFixedNom2 senseNom1 0 ={RFixedNom}
+R§ThermNom2 Vcc senseNom1 R = {R0ThermNom*exp(-BThermNom*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D24 senseNom1 commonNom {Diode}
+RFixedNom3 senseNom4 0 ={RFixedNom}
+R§ThermNom3 Vcc senseNom4 R = {R0ThermNom*exp(-BThermNom*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D25 senseNom4 commonNom {Diode}
+RFixedNom4 senseNom3 0 ={RFixedNom}
+R§ThermNom4 Vcc senseNom3 R = {R0ThermNom*exp(-BThermNom*( 1/(T0Therm) - 1/( (time + 273.15) )))}
+D26 senseNom3 commonNom {Diode}
+RPdnNom commonNom 0 ={RPdnNom}
+RFixed1_2 sense1_High 0 ={RFixed1}
+R§Therm1_2 Vcc sense1_High R = {R0Therm1*exp(-BTherm1*( 1/(T0Therm) - 1/( (time + 273.15 + 10) )))}
+D27 sense1_High common_2 {Diode}
+RFixed2_2 sense2 0 ={RFixed2}
+R§Therm2_2 Vcc sense2 R = {R0Therm2*exp(-BTherm2*( 1/(T0Therm) - 1/( (time + 273.15 + 0) )))}
+D28 sense2 common_2 {Diode}
+RFixed3_2 sense3 0 ={RFixed3}
+R§Therm1_3 Vcc sense3 R = {R0Therm3*exp(-BTherm3*( 1/(T0Therm) - 1/( (time + 273.15 + 0) )))}
+D29 sense3 common_2 {Diode}
+RFixed4_2 sense4 0 ={RFixed4}
+R§Therm1_4 Vcc sense4 R = {R0Therm4*exp(-BTherm4*( 1/(T0Therm) - 1/( (time + 273.15 + 0) )))}
+D30 sense4 common_2 {Diode}
+RPdnNom1 common_2 0 ={RPdnNom}
+RFixed1_2Iso sense1HighIso 0 ={RFixed1}
+R§Therm1_2Iso Vcc sense1HighIso R = {R0Therm1*exp(-BTherm1*( 1/(T0Therm) - 1/( (time + 273.15 + 0.5) )))}
+D31 sense1HighIso common_2Iso {Diode}
+RPdnNom2 common_2Iso 0 ={RPdnNom}
 .model D D
 .lib C:\Users\drena\AppData\Local\LTspice\lib\cmp\standard.dio
 .tran 70
@@ -77,6 +112,8 @@ R2 Vref 0 1.2k
 .param Diode 1
 * All other parameters are managed and \nwritten to params.txt by generate-params.py
 * The diode paralleled thermistor concept is proven by the node voltages of SenseHigh and common being equal to the \nisolated temperature sensor circuit voltages senseHighTest and commonTest
+* Nominal sensor circuit with no temperature offset
+* When all the sense circuits are EXACTLY the same in temperature and component values, all diodes are conducting equally into the common node\nThe sum of their currents is greater than the current in the isolated case, which means we can't get a fixed voltage for the whole system at 60C\nbecause the similarity of the temperatures at the sensors determines the threshold voltage.
 .lib LTC3.lib
 .backanno
 .end
