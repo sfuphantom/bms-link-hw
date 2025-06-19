@@ -1,0 +1,5 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\Draft1.asc
+Start Time: Wed Jun 18 18:17:22 2025
+Fatal Error: Port(pin) count mismatch between the definition of subcircuit "lm339" and instance: "xu1"
+The instance has more connection terminals than the definition.

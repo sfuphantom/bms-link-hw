@@ -22,7 +22,7 @@ Questionable use of curly braces in "b§r§therm11 vcc sense11  r={{r0therm11}*exp
     Error: undefined symbol in: "(r0therm11)*exp(-(btherm11)*(1/((t0therm))-1/(([time]+273.15+(t11)))))"
 Questionable use of curly braces in "b§r§therm12 vcc sense12  r={{r0therm12}*exp(-{btherm12}*(1/({t0therm})-1/((time+273.15+{t12}))))}"
     Error: undefined symbol in: "(r0therm12)*exp(-(btherm12)*(1/((t0therm))-1/(([time]+273.15+(t12)))))"
-Questionable use of curly braces in "b§r§therm13 vcc n001  r={{r0therm13}*exp(-{btherm13}*(1/({t0therm})-1/((time+273.15+{t13}))))}"
+Questionable use of curly braces in "b§r§therm13 vcc sense13  r={{r0therm13}*exp(-{btherm13}*(1/({t0therm})-1/((time+273.15+{t13}))))}"
     Error: undefined symbol in: "(r0therm13)*exp(-(btherm13)*(1/((t0therm))-1/(([time]+273.15+(t13)))))"
 Questionable use of curly braces in "b§r§therm14 vcc sense14  r={{r0therm14}*exp(-{btherm14}*(1/({t0therm})-1/((time+273.15+{t14}))))}"
     Error: undefined symbol in: "(r0therm14)*exp(-(btherm14)*(1/((t0therm))-1/(([time]+273.15+(t14)))))"
@@ -32,71 +32,14 @@ Questionable use of curly braces in "b§r§therm16 vcc sense16  r={{r0therm16}*exp
     Error: undefined symbol in: "(r0therm16)*exp(-(btherm16)*(1/((t0therm))-1/(([time]+273.15+(t16)))))"
 Questionable use of curly braces in "b§r§therm17 vcc sense17  r={{r0therm17}*exp(-{btherm17}*(1/({t0therm})-1/((time+273.15+{t17}))))}"
     Error: undefined symbol in: "(r0therm17)*exp(-(btherm17)*(1/((t0therm))-1/(([time]+273.15+(t17)))))"
-Questionable use of curly braces in "b§r§therm18 vcc n002  r={{r0therm18}*exp(-{btherm18}*(1/({t0therm})-1/((time+273.15+{t18}))))}"
+Questionable use of curly braces in "b§r§therm18 vcc sense18  r={{r0therm18}*exp(-{btherm18}*(1/({t0therm})-1/((time+273.15+{t18}))))}"
     Error: undefined symbol in: "(r0therm18)*exp(-(btherm18)*(1/((t0therm))-1/(([time]+273.15+(t18)))))"
 Questionable use of curly braces in "b§r§therm19 vcc sense19  r={{r0therm19}*exp(-{btherm19}*(1/({t0therm})-1/((time+273.15+{t19}))))}"
     Error: undefined symbol in: "(r0therm19)*exp(-(btherm19)*(1/((t0therm))-1/(([time]+273.15+(t19)))))"
 Questionable use of curly braces in "b§r§therm20 vcc sense20  r={{r0therm20}*exp(-{btherm20}*(1/({t0therm})-1/((time+273.15+{t20}))))}"
     Error: undefined symbol in: "(r0therm20)*exp(-(btherm20)*(1/((t0therm))-1/(([time]+273.15+(t20)))))"
-Questionable use of curly braces in "b§r§thermtest vcc sensehightest  r={{r0therm1}*exp(-{btherm1}*(1/({t0therm})-1/((time+273.15+{thigh}))))}"
-    Error: undefined symbol in: "(r0therm1)*exp(-(btherm1)*(1/((t0therm))-1/(([time]+273.15+(thigh)))))"
-Questionable use of curly braces in "b§r§thermnom vcc sensenom  r={{r0thermnom}*exp(-{bthermnom}*(1/({t0therm})-1/((time+273.15))))}"
-    Error: undefined symbol in: "(r0thermnom)*exp(-(bthermnom)*(1/((t0therm))-1/(([time]+273.15))))"
-Questionable use of curly braces in "b§r§thermnom1 vcc sensenom2  r={{r0thermnom}*exp(-{bthermnom}*(1/({t0therm})-1/((time+273.15))))}"
-    Error: undefined symbol in: "(r0thermnom)*exp(-(bthermnom)*(1/((t0therm))-1/(([time]+273.15))))"
-Questionable use of curly braces in "b§r§thermnom2 vcc sensenom1  r={{r0thermnom}*exp(-{bthermnom}*(1/({t0therm})-1/((time+273.15))))}"
-    Error: undefined symbol in: "(r0thermnom)*exp(-(bthermnom)*(1/((t0therm))-1/(([time]+273.15))))"
-Questionable use of curly braces in "b§r§thermnom3 vcc sensenom4  r={{r0thermnom}*exp(-{bthermnom}*(1/({t0therm})-1/((time+273.15))))}"
-    Error: undefined symbol in: "(r0thermnom)*exp(-(bthermnom)*(1/((t0therm))-1/(([time]+273.15))))"
-Questionable use of curly braces in "b§r§thermnom4 vcc sensenom3  r={{r0thermnom}*exp(-{bthermnom}*(1/({t0therm})-1/((time+273.15))))}"
-    Error: undefined symbol in: "(r0thermnom)*exp(-(bthermnom)*(1/((t0therm))-1/(([time]+273.15))))"
-Questionable use of curly braces in "b§r§therm1_2 vcc sense1_high  r={{r0therm1}*exp(-{btherm1}*(1/({t0therm})-1/((time+273.15+10))))}"
-    Error: undefined symbol in: "(r0therm1)*exp(-(btherm1)*(1/((t0therm))-1/(([time]+273.15+10))))"
-Questionable use of curly braces in "b§r§therm2_2 vcc sense2  r={{r0therm2}*exp(-{btherm2}*(1/({t0therm})-1/((time+273.15+0))))}"
-    Error: undefined symbol in: "(r0therm2)*exp(-(btherm2)*(1/((t0therm))-1/(([time]+273.15+0))))"
-Questionable use of curly braces in "b§r§therm1_3 vcc sense3  r={{r0therm3}*exp(-{btherm3}*(1/({t0therm})-1/((time+273.15+0))))}"
-    Error: undefined symbol in: "(r0therm3)*exp(-(btherm3)*(1/((t0therm))-1/(([time]+273.15+0))))"
-Questionable use of curly braces in "b§r§therm1_4 vcc sense4  r={{r0therm4}*exp(-{btherm4}*(1/({t0therm})-1/((time+273.15+0))))}"
-    Error: undefined symbol in: "(r0therm4)*exp(-(btherm4)*(1/((t0therm))-1/(([time]+273.15+0))))"
-Questionable use of curly braces in "b§r§therm1_2iso vcc sense1highiso  r={{r0therm1}*exp(-{btherm1}*(1/({t0therm})-1/((time+273.15+0.5))))}"
-    Error: undefined symbol in: "(r0therm1)*exp(-(btherm1)*(1/((t0therm))-1/(([time]+273.15+0.5))))"
 LTspice 24.0.12 for Windows
-Circuit: * C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\thermistor.asc
-Start Time: Wed Jun 18 15:37:12 2025
-solver = Normal
-Maximum thread count: 4
-tnom = 27
-temp = 27
-method = modified trap
-WARNING: Less than two connections to node commonx.  This node is used by d1.
-Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
-Starting Gmin stepping
-Gmin = 10
-Gmin = 1.07374
-Gmin = 0.115292
-Gmin = 0.0123794
-Gmin = 0.00132923
-Gmin = 0.000142725
-Gmin = 1.5325e-05
-Gmin = 1.6455e-06
-vernier = 0.5
-vernier = 0.25
-Gmin = 6.63374e-07
-vernier = 0.333333
-vernier = 0.444444
-Gmin = 3.07923e-07
-vernier = 0.592592
-Gmin = 9.11308e-08
-vernier = 0.790123
-vernier = 1
-Gmin = 1.3779e-08
-Gmin = 1.47951e-09
-Gmin = 1.58861e-10
-Gmin = 1.70576e-11
-Gmin = 1.83154e-12
-Gmin = 1.9666e-13
-Gmin = 0
-Gmin stepping succeeded in finding the operating point.
-
-Total elapsed time: 0.369 seconds.
-
+Circuit: * C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.asc
+Start Time: Wed Jun 18 17:59:42 2025
+Fatal Error: Port(pin) count mismatch between the definition of subcircuit "lm339" and instance: "xu10"
+The instance has more connection terminals than the definition.
