@@ -1,9 +1,0 @@
-* C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\Draft1.asc
-V1 N002 0 2
-V2 N003 0 1
-V3 N001 0 5
-XU1 N003 N002 N001 0 out LM339_PSPICE_MODEL.LIB LM339
-.lib ./LM339_PSPICE_MODEL.LIB
-.tran 1
-.backanno
-.end

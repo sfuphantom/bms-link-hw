@@ -1,45 +1,387 @@
-Questionable use of curly braces in "b§r§therm1 vcc sensehigh  r={{r0therm1}*exp(-{btherm1}*(1/({t0therm})-1/((time+273.15+{thigh}))))}"
-    Error: undefined symbol in: "(r0therm1)*exp(-(btherm1)*(1/((t0therm))-1/(([time]+273.15+(thigh)))))"
-Questionable use of curly braces in "b§r§therm2 vcc sense2  r={{r0therm2}*exp(-{btherm2}*(1/({t0therm})-1/((time+273.15+{t2}))))}"
-    Error: undefined symbol in: "(r0therm2)*exp(-(btherm2)*(1/((t0therm))-1/(([time]+273.15+(t2)))))"
-Questionable use of curly braces in "b§r§therm3 vcc sense3  r={{r0therm3}*exp(-{btherm3}*(1/({t0therm})-1/((time+273.15+{t3}))))}"
-    Error: undefined symbol in: "(r0therm3)*exp(-(btherm3)*(1/((t0therm))-1/(([time]+273.15+(t3)))))"
-Questionable use of curly braces in "b§r§therm4 vcc sense4  r={{r0therm4}*exp(-{btherm4}*(1/({t0therm})-1/((time+273.15+{t4}))))}"
-    Error: undefined symbol in: "(r0therm4)*exp(-(btherm4)*(1/((t0therm))-1/(([time]+273.15+(t4)))))"
-Questionable use of curly braces in "b§r§therm5 vcc sense5  r={{r0therm5}*exp(-{btherm5}*(1/({t0therm})-1/((time+273.15+{t5}))))}"
-    Error: undefined symbol in: "(r0therm5)*exp(-(btherm5)*(1/((t0therm))-1/(([time]+273.15+(t5)))))"
-Questionable use of curly braces in "b§r§therm6 vcc sense6  r={{r0therm6}*exp(-{btherm6}*(1/({t0therm})-1/((time+273.15+{t6}))))}"
-    Error: undefined symbol in: "(r0therm6)*exp(-(btherm6)*(1/((t0therm))-1/(([time]+273.15+(t6)))))"
-Questionable use of curly braces in "b§r§therm7 vcc sense7  r={{r0therm7}*exp(-{btherm7}*(1/({t0therm})-1/((time+273.15+{t7}))))}"
-    Error: undefined symbol in: "(r0therm7)*exp(-(btherm7)*(1/((t0therm))-1/(([time]+273.15+(t7)))))"
-Questionable use of curly braces in "b§r§therm8 vcc sense8  r={{r0therm8}*exp(-{btherm8}*(1/({t0therm})-1/((time+273.15+{t8}))))}"
-    Error: undefined symbol in: "(r0therm8)*exp(-(btherm8)*(1/((t0therm))-1/(([time]+273.15+(t8)))))"
-Questionable use of curly braces in "b§r§therm9 vcc sense9  r={{r0therm9}*exp(-{btherm9}*(1/({t0therm})-1/((time+273.15+{t9}))))}"
-    Error: undefined symbol in: "(r0therm9)*exp(-(btherm9)*(1/((t0therm))-1/(([time]+273.15+(t9)))))"
-Questionable use of curly braces in "b§r§therm10 vcc sense10  r={{r0therm10}*exp(-{btherm10}*(1/({t0therm})-1/((time+273.15+{t10}))))}"
-    Error: undefined symbol in: "(r0therm10)*exp(-(btherm10)*(1/((t0therm))-1/(([time]+273.15+(t10)))))"
-Questionable use of curly braces in "b§r§therm11 vcc sense11  r={{r0therm11}*exp(-{btherm11}*(1/({t0therm})-1/((time+273.15+{t11}))))}"
-    Error: undefined symbol in: "(r0therm11)*exp(-(btherm11)*(1/((t0therm))-1/(([time]+273.15+(t11)))))"
-Questionable use of curly braces in "b§r§therm12 vcc sense12  r={{r0therm12}*exp(-{btherm12}*(1/({t0therm})-1/((time+273.15+{t12}))))}"
-    Error: undefined symbol in: "(r0therm12)*exp(-(btherm12)*(1/((t0therm))-1/(([time]+273.15+(t12)))))"
-Questionable use of curly braces in "b§r§therm13 vcc sense13  r={{r0therm13}*exp(-{btherm13}*(1/({t0therm})-1/((time+273.15+{t13}))))}"
-    Error: undefined symbol in: "(r0therm13)*exp(-(btherm13)*(1/((t0therm))-1/(([time]+273.15+(t13)))))"
-Questionable use of curly braces in "b§r§therm14 vcc sense14  r={{r0therm14}*exp(-{btherm14}*(1/({t0therm})-1/((time+273.15+{t14}))))}"
-    Error: undefined symbol in: "(r0therm14)*exp(-(btherm14)*(1/((t0therm))-1/(([time]+273.15+(t14)))))"
-Questionable use of curly braces in "b§r§therm15 vcc sense15  r={{r0therm15}*exp(-{btherm15}*(1/({t0therm})-1/((time+273.15+{t15}))))}"
-    Error: undefined symbol in: "(r0therm15)*exp(-(btherm15)*(1/((t0therm))-1/(([time]+273.15+(t15)))))"
-Questionable use of curly braces in "b§r§therm16 vcc sense16  r={{r0therm16}*exp(-{btherm16}*(1/({t0therm})-1/((time+273.15+{t16}))))}"
-    Error: undefined symbol in: "(r0therm16)*exp(-(btherm16)*(1/((t0therm))-1/(([time]+273.15+(t16)))))"
-Questionable use of curly braces in "b§r§therm17 vcc sense17  r={{r0therm17}*exp(-{btherm17}*(1/({t0therm})-1/((time+273.15+{t17}))))}"
-    Error: undefined symbol in: "(r0therm17)*exp(-(btherm17)*(1/((t0therm))-1/(([time]+273.15+(t17)))))"
-Questionable use of curly braces in "b§r§therm18 vcc sense18  r={{r0therm18}*exp(-{btherm18}*(1/({t0therm})-1/((time+273.15+{t18}))))}"
-    Error: undefined symbol in: "(r0therm18)*exp(-(btherm18)*(1/((t0therm))-1/(([time]+273.15+(t18)))))"
-Questionable use of curly braces in "b§r§therm19 vcc sense19  r={{r0therm19}*exp(-{btherm19}*(1/({t0therm})-1/((time+273.15+{t19}))))}"
-    Error: undefined symbol in: "(r0therm19)*exp(-(btherm19)*(1/((t0therm))-1/(([time]+273.15+(t19)))))"
-Questionable use of curly braces in "b§r§therm20 vcc sense20  r={{r0therm20}*exp(-{btherm20}*(1/({t0therm})-1/((time+273.15+{t20}))))}"
-    Error: undefined symbol in: "(r0therm20)*exp(-(btherm20)*(1/((t0therm))-1/(([time]+273.15+(t20)))))"
-LTspice 24.0.12 for Windows
-Circuit: * C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.asc
-Start Time: Wed Jun 18 17:59:42 2025
-Fatal Error: Port(pin) count mismatch between the definition of subcircuit "lm339" and instance: "xu10"
-The instance has more connection terminals than the definition.
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(3): Expected resistor parameter(s) here.
+RFixed1 senseHigh 0 ={RFixed1}
+                   ^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(5): Expected resistor parameter(s) here.
+RFixed2 sense2 0 ={RFixed2}
+                ^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(7): Expected resistor parameter(s) here.
+RFixed3 sense3 0 ={RFixed3}
+                ^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(10): Expected resistor parameter(s) here.
+RFixed4 sense4 0 ={RFixed4}
+                ^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(12): Expected resistor parameter(s) here.
+RFixed5 sense5 0 ={RFixed5}
+                ^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(14): Expected resistor parameter(s) here.
+RFixed6 sense6 0 ={RFixed6}
+                ^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(16): Expected resistor parameter(s) here.
+RFixed7 sense7 0 ={RFixed7}
+                ^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(18): Expected resistor parameter(s) here.
+RFixed8 sense8 0 ={RFixed8}
+                ^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(20): Expected resistor parameter(s) here.
+RFixed9 sense9 0 ={RFixed9}
+                ^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(22): Expected resistor parameter(s) here.
+RFixed10 sense10 0 ={RFixed10}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(24): Expected resistor parameter(s) here.
+RFixed11 sense11 0 ={RFixed11}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(26): Expected resistor parameter(s) here.
+RFixed12 sense12 0 ={RFixed12}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(28): Expected resistor parameter(s) here.
+RFixed13 sense13 0 ={RFixed13}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(30): Expected resistor parameter(s) here.
+RFixed14 sense14 0 ={RFixed14}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(32): Expected resistor parameter(s) here.
+RFixed15 sense15 0 ={RFixed15}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(34): Expected resistor parameter(s) here.
+RFixed16 sense16 0 ={RFixed16}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(36): Expected resistor parameter(s) here.
+RFixed17 sense17 0 ={RFixed17}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(38): Expected resistor parameter(s) here.
+RFixed18 sense18 0 ={RFixed18}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(40): Expected resistor parameter(s) here.
+RFixed19 sense19 0 ={RFixed19}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\cellTemperatureAlarm.net(42): Expected resistor parameter(s) here.
+RFixed20 sense20 0 ={RFixed20}
+                  ^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(69): Expected directive or device instantiation here.
+$CDNENCSTART
+^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(70): Expected 2 node names here.
+eee8c5c7a2bc4b01f045f303678664e7916da0bae22e8cb0bba041dd67c69ce448ea70148a9ac1670c8926c1ac5057c8ccfcd77bf87ca9dc231359c503896009
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(71): Expected directive or device instantiation here.
+282c6ad581f89e46118c532c51eaced0b58937d5c381341a6c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(72): Expected directive or device instantiation here.
+76772fcaed53044f6f31076d2b37e96bb58937d5c381341a6c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(73): Expected directive or device instantiation here.
+2be465b6ad4cad1ca71cc1b59a10e9037fa9da3d151000fcbe1c12db7e32fbebcd6a6dbf365f7a5c397dc00dadbc697444c2bd1f04f552d388fa1143c18afd0d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(74): Expected node name here.
+db31c8ccd2fb318ff45310c19b6b8ee559f616b93b38d33c0308484362f2ed78a714abd111767e77b5f98da16549b5c076b3b1c92ab053607e9dd8673fd82fcf
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(74): Expected directive or device instantiation here.
+db31c8ccd2fb318ff45310c19b6b8ee559f616b93b38d33c0308484362f2ed78a714abd111767e77b5f98da16549b5c076b3b1c92ab053607e9dd8673fd82fcf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(75): Expected directive or device instantiation here.
+3932f520130e842ea71cc1b59a10e9035612731c1899ee6a63a99c18378328bccd6a6dbf365f7a5c397dc00dadbc697444c2bd1f04f552d388fa1143c18afd0d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(76): Expected node name here.
+bfc9f1a18d2eda1cbfb31f27af21c96eadfe2689dbd1cbc8b5a66fa6cc68bc9aef74543753a5d8abd9d14c243c85e87555f324782d80da0df80d27d6c9325b4c
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(76): Expected directive or device instantiation here.
+bfc9f1a18d2eda1cbfb31f27af21c96eadfe2689dbd1cbc8b5a66fa6cc68bc9aef74543753a5d8abd9d14c243c85e87555f324782d80da0df80d27d6c9325b4c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(77): Expected directive or device instantiation here.
+0ab7b93a7ec6d416a0062141238b855cfbac274d56622b5e973f27bf13045b53a714abd111767e77b5f98da16549b5c076b3b1c92ab053607e9dd8673fd82fcf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(78): Expected node name here.
+f0da0fe8e9949e3fba5eaa4b68130358f4c3b7c7dbd89947cd3e984f262414e0f7cf309f1dff725c76e9008832438f3055f989c77ac0d9f1552a4f7a40d0ef91
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(78): Expected directive or device instantiation here.
+f0da0fe8e9949e3fba5eaa4b68130358f4c3b7c7dbd89947cd3e984f262414e0f7cf309f1dff725c76e9008832438f3055f989c77ac0d9f1552a4f7a40d0ef91
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(79): Expected directive or device instantiation here.
+93b55fc6e63e8eddf45310c19b6b8ee5c867144c2c5de019632f32168d47c22e2dd53a3e2154791cb8641405c3eff2751df95c426db349a8ae8509593018c2f3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(80): Expected directive or device instantiation here.
+6a1fa4ac0de87e33f45310c19b6b8ee502392b30032bf44c632f32168d47c22e2dd53a3e2154791cb8641405c3eff2751df95c426db349a8ae8509593018c2f3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(81): Expected directive or device instantiation here.
+42cad0d02e943b3cd6bd78cbde01efd6d6769f456ffaaa7c632f32168d47c22e2dd53a3e2154791cb8641405c3eff2751df95c426db349a8ae8509593018c2f3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(82): Expected directive or device instantiation here.
+8c405d8e2d6eabbef45310c19b6b8ee5be7fd4e04021b921c468af56c2591a049776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(83): Expected directive or device instantiation here.
+4cd06853ab5548841852d2bae25628720f25e094102b98002440000a911914027f0fa930676c64cbc468af56c2591a049776b84d8c96da0a3ca225c95261a9c8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(84): Expected directive or device instantiation here.
+7cb86961b1d9e0f448145007386465db167e951ed918cd7127806d6587b4f094feb717b23ca5edd7cbbcdcf8bf29d931f7cf309f1dff725c2fba9b88456dc903
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(85): Expected node name here.
+b0fb847a3b385fda46b92e86e8aaa0ba856d9230a7ed0973632f32168d47c22e2dd53a3e2154791cb8641405c3eff2751df95c426db349a8ae8509593018c2f3
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(85): Expected directive or device instantiation here.
+b0fb847a3b385fda46b92e86e8aaa0ba856d9230a7ed0973632f32168d47c22e2dd53a3e2154791cb8641405c3eff2751df95c426db349a8ae8509593018c2f3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(86): Expected node name here.
+daa809011f19a6e042efcf8bf49fd1983b80ac1888121a356c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(86): Expected directive or device instantiation here.
+daa809011f19a6e042efcf8bf49fd1983b80ac1888121a356c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(87): Expected directive or device instantiation here.
+8f10d309634521e5a71cc1b59a10e9039a98713b750e7897b7414701a30abb5aa714abd111767e77b5f98da16549b5c076b3b1c92ab053607e9dd8673fd82fcf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(88): Expected directive or device instantiation here.
+836b1094b37bfef146b92e86e8aaa0bae695fddc831d0f1c632f32168d47c22e2dd53a3e2154791cb8641405c3eff2751df95c426db349a8ae8509593018c2f3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(89): Expected directive or device instantiation here.
+281c026029c854652b353e4191caa13fb5dd89e0eada5e2f653f886f76471a140a1b7b52a4a7583ecd6a6dbf365f7a5c397dc00dadbc6974237201d27b257290
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(90): Expected directive or device instantiation here.
+9d6caa3812baded0de407278591bf8931624bf89a0a0e937970729395fa5aff0a6d4990149c366b3cd6a6dbf365f7a5c397dc00dadbc6974237201d27b257290
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(91): Expected node name here.
+a9d298bb70acb5acf45310c19b6b8ee54e43c6e795ceb6be006fd8f4a33ce7b7a714abd111767e77b5f98da16549b5c076b3b1c92ab053607e9dd8673fd82fcf
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(91): Expected directive or device instantiation here.
+a9d298bb70acb5acf45310c19b6b8ee54e43c6e795ceb6be006fd8f4a33ce7b7a714abd111767e77b5f98da16549b5c076b3b1c92ab053607e9dd8673fd82fcf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(92): Expected directive or device instantiation here.
+4f4f9ff1e68401aaccde9c518370a9020119b9489eec9bd1460d95b349f574d2706b807646b80371632f32168d47c22e2dd53a3e2154791c8f06803716617410
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(93): Expected directive or device instantiation here.
+95a38c0bf484b9678dc6150e9752de32e7176f31e5605d4448f3b44185d301da77524f290e81059b632f32168d47c22e2dd53a3e2154791c8f06803716617410
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(94): Expected directive or device instantiation here.
+8782f1c39799a5621b36a76c242b138ac342d976e2d60b85b286a0400261dae477650768851a01008ad19809bff1b754bf3f8df7650d2ae2c898fc95cc54d10d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(95): Expected directive or device instantiation here.
+904e90e8e5b2fbfda71cc1b59a10e9036fd5bce168fccf64b7414701a30abb5aa714abd111767e77b5f98da16549b5c076b3b1c92ab053607e9dd8673fd82fcf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(96): Expected node name here.
+bc79ddba924fd6b66f31076d2b37e96b40a7226c8e893e93c468af56c2591a049776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(96): Expected directive or device instantiation here.
+bc79ddba924fd6b66f31076d2b37e96b40a7226c8e893e93c468af56c2591a049776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(97): Expected node name here.
+b9ae3ed49b33ef9df45310c19b6b8ee5def53bcb933c6082b32500fc2043c0a24efe0cd80eca0d846c34d7c6649e38767b8c1741a5ede691c6e62c36dc42c3ad
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(97): Expected directive or device instantiation here.
+b9ae3ed49b33ef9df45310c19b6b8ee5def53bcb933c6082b32500fc2043c0a24efe0cd80eca0d846c34d7c6649e38767b8c1741a5ede691c6e62c36dc42c3ad
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(98): Expected directive or device instantiation here.
+2b76ba2308b7e6b182aefb8769a55e18caa18b32c7cb3fd8f82b2a2a09dd4d66c46c2824c9fff4521efda568f8b88501118fd7ffdb24f3c3960e6ea1c1da1c09
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(99): Expected directive or device instantiation here.
+635adb6c201b6ba1aecfdb5e1a40f0108c75d703ed7db3553938a86cf3cb0a65a714abd111767e77b5f98da16549b5c076b3b1c92ab053607e9dd8673fd82fcf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(100): Expected directive or device instantiation here.
+c33d7a94b494464b6f31076d2b37e96b574a356ce4b06f886c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(101): Expected directive or device instantiation here.
+926e9caa89fe3708f45310c19b6b8ee5f781e12679ed7e204c184d7a733c090eec3b77e0a3e1c5a0cf5e9389f2a48e3cf7cf309f1dff725c2fba9b88456dc903
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(102): Expected directive or device instantiation here.
+4aa74561b2f15095f45310c19b6b8ee5adada638b46b2ae5c468af56c2591a049776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(103): Expected directive or device instantiation here.
+c7e7e79d641b837a118c532c51eaced0a6571dc5c50db9f3c468af56c2591a049776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(104): Expected directive or device instantiation here.
+57a1528dc6fc191af45310c19b6b8ee559481f370456e98d687d14888b3fec06f7cf309f1dff725c76e9008832438f3055f989c77ac0d9f1552a4f7a40d0ef91
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(105): Expected directive or device instantiation here.
+172ebc888ce307f5625208ab2af5be52b312ebf73e385a50b7e3e4292ebc07ee55f324782d80da0d8ee22b24061b48271af4b27690212d595a420f467e50e76c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(106): Expected node name here.
+a3aae5a2addceb3b9fbfa9fbb8a333306241fb632702aee5d153c4224e8306109776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(106): Expected directive or device instantiation here.
+a3aae5a2addceb3b9fbfa9fbb8a333306241fb632702aee5d153c4224e8306109776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(107): Expected directive or device instantiation here.
+82ffa445b37280d7c502c707c7a3cfc363a66fb476b8e3cf32ce9c8cba5c885ca997e4709d030d51c468af56c2591a049776b84d8c96da0a3ca225c95261a9c8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(108): Expected directive or device instantiation here.
+7cb86961b1d9e0f448145007386465db167e951ed918cd7127806d6587b4f094feb717b23ca5edd7cbbcdcf8bf29d931f7cf309f1dff725c2fba9b88456dc903
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(109): Expected node name here.
+f197831ab997cb5146b92e86e8aaa0baf1b7ccb9ac612b80632f32168d47c22e2dd53a3e2154791cb8641405c3eff2751df95c426db349a8ae8509593018c2f3
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(109): Expected directive or device instantiation here.
+f197831ab997cb5146b92e86e8aaa0baf1b7ccb9ac612b80632f32168d47c22e2dd53a3e2154791cb8641405c3eff2751df95c426db349a8ae8509593018c2f3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(110): Expected directive or device instantiation here.
+683f0afab66bd4982b353e4191caa13fb5dd89e0eada5e2f653f886f76471a14846d90c89d08d7eecd6a6dbf365f7a5c397dc00dadbc6974237201d27b257290
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(111): Expected directive or device instantiation here.
+6574fb835fe903480930c8acfa113a6f1e78701ca0490e17271f12669a6277fb1b7efa2c4fa86b7555f324782d80da0d8ee22b24061b48277e71285fad982b49
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(112): Expected node name here.
+f77ae684f3bee76bf45310c19b6b8ee5bee48d2c54982c092365cb43df832d2f110da95e0625f2028ad19809bff1b754bf3f8df7650d2ae2c898fc95cc54d10d
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(112): Expected directive or device instantiation here.
+f77ae684f3bee76bf45310c19b6b8ee5bee48d2c54982c092365cb43df832d2f110da95e0625f2028ad19809bff1b754bf3f8df7650d2ae2c898fc95cc54d10d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(113): Expected directive or device instantiation here.
+31481da19e278b3c99ace6f1be3296ae8f8d572771de903f81994dde55453dc4ff7c8d7fe3cc104ccbbcdcf8bf29d931f7cf309f1dff725c2fba9b88456dc903
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(114): Expected directive or device instantiation here.
+706cbe236337354e769044945c5a111261d90810b63c4282c468af56c2591a049776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(115): Expected directive or device instantiation here.
+c94861b9cdf63676d4dddbcfb70cc3775587916f02d77a4cc29a49e6c6070d6f9776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(116): Expected directive or device instantiation here.
+8b0a1b2bb70ba090aecfdb5e1a40f010bad043d36138cf5a460d95b349f574d2706b807646b80371632f32168d47c22e2dd53a3e2154791c8f06803716617410
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(117): Expected directive or device instantiation here.
+955e9c115061f7d56f31076d2b37e96ba6571dc5c50db9f3c468af56c2591a049776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(118): Expected directive or device instantiation here.
+cde4d26b358b4875ad0d410c5c14c377018b05945f92c825661c6c5a6c3f664ff7cf309f1dff725c76e9008832438f3055f989c77ac0d9f1552a4f7a40d0ef91
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(119): Expected 2 node names here.
+efc8ebd2eb5bbe7cf45310c19b6b8ee5b0c2208c057436d1687d14888b3fec06f7cf309f1dff725c76e9008832438f3055f989c77ac0d9f1552a4f7a40d0ef91
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(120): Expected directive or device instantiation here.
+7c54dff84d438311f45310c19b6b8ee5d5a527a7ecd44b06973f27bf13045b53a714abd111767e77b5f98da16549b5c076b3b1c92ab053607e9dd8673fd82fcf
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(121): Expected directive or device instantiation here.
+2b8d3c1572277b809ebea82edad950759c70a93173b8d58f48f3b44185d301da225920464fe5eb96632f32168d47c22e2dd53a3e2154791c8f06803716617410
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(122): Expected directive or device instantiation here.
+7cb86961b1d9e0f496fc3c27debc65bf1f1bfa482c1e92fc6ed39a523b0135da58dd2930668656a48ad19809bff1b754bf3f8df7650d2ae2c898fc95cc54d10d
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(123): Expected node name here.
+dd450011cca44d461852d2bae256287256a33d6a424c72b92440000a911914022732a933f9d24708c468af56c2591a049776b84d8c96da0a3ca225c95261a9c8
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(123): Expected directive or device instantiation here.
+dd450011cca44d461852d2bae256287256a33d6a424c72b92440000a911914022732a933f9d24708c468af56c2591a049776b84d8c96da0a3ca225c95261a9c8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(124): Expected directive or device instantiation here.
+7cb86961b1d9e0f448145007386465db167e951ed918cd7127806d6587b4f094feb717b23ca5edd7cbbcdcf8bf29d931f7cf309f1dff725c2fba9b88456dc903
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(125): Expected directive or device instantiation here.
+6e07ca95bf59e24c1852d2bae256287263a66fb476b8e3cf2440000a91191402a997e4709d030d51c468af56c2591a049776b84d8c96da0a3ca225c95261a9c8
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(126): Expected directive or device instantiation here.
+7cb86961b1d9e0f448145007386465db167e951ed918cd7127806d6587b4f094feb717b23ca5edd7cbbcdcf8bf29d931f7cf309f1dff725c2fba9b88456dc903
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(127): Expected directive or device instantiation here.
+0e4cb28663d007fff45310c19b6b8ee57673cda9e4b6d1ba6c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(128): Expected directive or device instantiation here.
+0a09c50ac3eb1ddb6430c32d7de6e5db3a286b1ba53e2e33408d99a6491c5c7a49687f5ec94219f66c34d7c6649e38767b8c1741a5ede691c6e62c36dc42c3ad
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(129): Expected directive or device instantiation here.
+845d9a586189aae6735cc2a94a5a1d9b57d058f43e97a6b7970729395fa5aff03668b8918624983ccbbcdcf8bf29d931f7cf309f1dff725c2fba9b88456dc903
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(130): Expected directive or device instantiation here.
+0a73c37a67ae1bcf8dc6150e9752de32d66140694aa315c0661c6c5a6c3f664ff7cf309f1dff725c76e9008832438f3055f989c77ac0d9f1552a4f7a40d0ef91
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(131): Expected directive or device instantiation here.
+2dbdd1f19d21f2c6f45310c19b6b8ee5adf742e229c36e266c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(132): Expected node name here.
+ae4adb31e6cc5e90f45310c19b6b8ee5e9ade471b03b029d6c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(132): Expected directive or device instantiation here.
+ae4adb31e6cc5e90f45310c19b6b8ee5e9ade471b03b029d6c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(133): Expected directive or device instantiation here.
+6d55b688263994cff45310c19b6b8ee5fad7b13ec8ec21506c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(134): Expected directive or device instantiation here.
+32e8f00fa6aadb0e6430c32d7de6e5dbd2643a65a7d06c888c5a2b21a7bc79a67643a2ffcbda425718ceba4f56c9f8d4632f32168d47c22e28034b3b33510be5
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(135): Expected directive or device instantiation here.
+981655313fe0e30bf45310c19b6b8ee536b71d841c336efef174df7990b349d66c34d7c6649e38767b8c1741a5ede691f5892cd14089366aeaa711d28c0dd7ba
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(136): Expected directive or device instantiation here.
+1bc6275d0e1adda01b335ff66691221518f98fe42c707551ecd15350991019a3bedc0f29d2940b231ae7e86de5a53bf6a714abd111767e77407f599c0f6a2589
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(137): Expected directive or device instantiation here.
+31481da19e278b3ccae45be8933ad200e9695519368fa778495db5aabf62289ed26fc2298ff19445632f32168d47c22e2dd53a3e2154791c8f06803716617410
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(138): Expected node name here.
+d3f206ca50441f6cf45310c19b6b8ee5db676eb63cece20b28e51619e066e3ae6d7dc7faf1beb6ec6c34d7c6649e38767b8c1741a5ede691c6e62c36dc42c3ad
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(138): Expected directive or device instantiation here.
+d3f206ca50441f6cf45310c19b6b8ee5db676eb63cece20b28e51619e066e3ae6d7dc7faf1beb6ec6c34d7c6649e38767b8c1741a5ede691c6e62c36dc42c3ad
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(139): Expected node name here.
+fcfda7af8999f5d5f45310c19b6b8ee5bcb8845692cb2463661c6c5a6c3f664ff7cf309f1dff725c76e9008832438f3055f989c77ac0d9f1552a4f7a40d0ef91
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(139): Expected directive or device instantiation here.
+fcfda7af8999f5d5f45310c19b6b8ee5bcb8845692cb2463661c6c5a6c3f664ff7cf309f1dff725c76e9008832438f3055f989c77ac0d9f1552a4f7a40d0ef91
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(140): Expected 2 node names here.
+e3a4951a15bbf04bf45310c19b6b8ee5788247b56509fbc6890957f1644e6bbf632f32168d47c22e2dd53a3e2154791cb8641405c3eff27544dab4fd71efdc0b
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(141): Expected node name here.
+a819b7acc64ea453f45310c19b6b8ee509d43afa57774477890957f1644e6bbf632f32168d47c22e2dd53a3e2154791cb8641405c3eff27544dab4fd71efdc0b
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(141): Expected directive or device instantiation here.
+a819b7acc64ea453f45310c19b6b8ee509d43afa57774477890957f1644e6bbf632f32168d47c22e2dd53a3e2154791cb8641405c3eff27544dab4fd71efdc0b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(142): Expected node name here.
+b0d3d1c4e169ca4a706b807646b80371e0ed2e2a3a7161f57f20537ce108d11aa60d4cc09ffef62c0df8e081aa3a65af6c34d7c6649e387607633e8ddd81b61c
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(142): Expected directive or device instantiation here.
+b0d3d1c4e169ca4a706b807646b80371e0ed2e2a3a7161f57f20537ce108d11aa60d4cc09ffef62c0df8e081aa3a65af6c34d7c6649e387607633e8ddd81b61c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(143): Expected directive or device instantiation here.
+85adedd7c53238bff45310c19b6b8ee5f6b1e5eb398a1895661c6c5a6c3f664ff7cf309f1dff725c76e9008832438f3055f989c77ac0d9f1552a4f7a40d0ef91
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(144): Expected directive or device instantiation here.
+644727dbdf1373a4f45310c19b6b8ee50d1a4b4ccf9a8be2f4bd4addbcef76ae632f32168d47c22e2dd53a3e2154791cb8641405c3eff27544dab4fd71efdc0b
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(145): Expected directive or device instantiation here.
+7cea6f37083889476f31076d2b37e96b8254bac5ba09e16813b1663dd85f362c9183e9179e2d0dc77f007a8b9df19fd0bdca261c428d1e37d7acbf21c6552dd3
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(146): Expected node name here.
+f75fabf4fc9c089c46b92e86e8aaa0bad9ada98ed18f66592ce1cc5a89b7a0ca6c34d7c6649e38767b8c1741a5ede691f5892cd14089366aeaa711d28c0dd7ba
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(146): Expected directive or device instantiation here.
+f75fabf4fc9c089c46b92e86e8aaa0bad9ada98ed18f66592ce1cc5a89b7a0ca6c34d7c6649e38767b8c1741a5ede691f5892cd14089366aeaa711d28c0dd7ba
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(147): Expected directive or device instantiation here.
+43bcccf36927f563f45310c19b6b8ee5f2afbcda7658898e2ce1cc5a89b7a0ca6c34d7c6649e38767b8c1741a5ede691f5892cd14089366aeaa711d28c0dd7ba
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(148): Expected directive or device instantiation here.
+638b98468a100340118c532c51eaced012083d7c12678c59661c6c5a6c3f664ff7cf309f1dff725c76e9008832438f3055f989c77ac0d9f1552a4f7a40d0ef91
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(149): Expected directive or device instantiation here.
+53e25219de8bdd066f31076d2b37e96bcc7e1f1f840e9a83c468af56c2591a049776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(150): Expected directive or device instantiation here.
+44f117741689d591ba5eaa4b68130358e155ddf484313e2da90b7182fb7d2e6055f324782d80da0d8ee22b24061b48271af4b27690212d595a420f467e50e76c
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(151): Expected directive or device instantiation here.
+3c76beba9b808c12b41fc50835871c49476cba50ab52711f6c34d7c6649e38767b8c1741a5ede691f5892cd14089366a48d9994d638cbb8b0e8ab2cc39acbc4f
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(152): Expected 2 node names here.
+ed75c210a9f51c9a8dc6150e9752de3258af0b8e786e633a03abcfd88793b008f46c9c3b07d94f8f632f32168d47c22e2dd53a3e2154791c8f06803716617410
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(153): Expected directive or device instantiation here.
+c0758198155a8c18f45310c19b6b8ee5c11d9e64fd0fb525c468af56c2591a049776b84d8c96da0a8f17755a691c2f0ccc6ce82c4c83491605b8bc29f5b79248
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(154): Expected directive or device instantiation here.
+1e7e75f62a07f7b185a6acbd7ba6f42afda7dca219ba5263b67527f318e3d85ce5de08de9f3b38c5953bcb31128691c3c0854be3ec1b3839e44c49bce26acafc
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(155): Expected node name here.
+a7d14b727dc7d7d31e04a6a22e0b40b9b53e010da18a1e1de10f414a36c2498252288c6713f2bd2fc8d0fb7d767ad79bcbbcdcf8bf29d9317f9ed94bc80cd830
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(155): Expected directive or device instantiation here.
+a7d14b727dc7d7d31e04a6a22e0b40b9b53e010da18a1e1de10f414a36c2498252288c6713f2bd2fc8d0fb7d767ad79bcbbcdcf8bf29d9317f9ed94bc80cd830
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(156): Expected node name here.
+d7072740a938f0e79119f12b5e5dba4cc150e3ba08da98b228bcdc364cf87e1acf59ecec8bf82fcd632f32168d47c22e2dd53a3e2154791c8f06803716617410
+                                                                                                                                ^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(156): Expected directive or device instantiation here.
+d7072740a938f0e79119f12b5e5dba4cc150e3ba08da98b228bcdc364cf87e1acf59ecec8bf82fcd632f32168d47c22e2dd53a3e2154791c8f06803716617410
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+C:\Users\drena\Nextcloud\TeamPhantom\BMS_Links\bms-link-hw\Simulation\LTSpice\Cell_Temperature_Alarm\LM339_PSPICE_MODEL.LIB(157): Expected directive or device instantiation here.
+$CDNENCFINISH
+^^^^^^^^^^^^^
