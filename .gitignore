@@ -2,3 +2,7 @@
 # All imported components are stored in the PCBLIB/SCHLIB files
 ./BMS_Link_Rev0/Components
 ./Cell_Temperature_Alarm_Rev0/Components
+
+# Exclude Altium history files because they are large and unecessary
+./BMS_Link_Rev0/History
+./Cell_Temperature_Alarm_Rev0/History
