@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YOPBCRHM
 
 [Document4]
+DocumentPath=Cell.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CROEHQAA
+
+[Document5]
 DocumentPath=BMS_Link_Rev0.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,6 +133,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document6]
+DocumentPath=Main.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GHJVZEQN
 
 [Configuration1]
 Name=Sources
@@ -1080,6 +1114,12 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=BMS_Link_Rev0.SchLib
+ComponentDesignItemID0=BSS308PE
+ComponentSymbolReference0=BSS308PE
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1093,6 +1133,31 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Check_prices
+ParameterUpdate0=1
+ParameterName1=Comment
+ParameterUpdate1=1
+ParameterName2=Component Kind
+ParameterUpdate2=1
+ParameterName3=Description
+ParameterUpdate3=1
+ParameterName4=Library Reference
+ParameterUpdate4=1
+ParameterName5=MF
+ParameterUpdate5=1
+ParameterName6=MP
+ParameterUpdate6=1
+ParameterName7=Package
+ParameterUpdate7=1
+ParameterName8=SnapEDA_Link
+ParameterUpdate8=1
+ParameterName9=Value
+ParameterUpdate9=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=TRANS_SOT23
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
